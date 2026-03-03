@@ -1,14 +1,21 @@
 # Simple Interest Calculator
 
-A simple command-line tool or script to calculate simple interest based on principal, rate of interest, and time period.
+A simple bash script that calculates simple interest given principal, annual rate of interest and time period in years.
 
-## Formula
-The formula used is:
-SI = (P * R * T) / 100
+## Description
+This project contains a bash script designed to help users quickly calculate the simple interest on a loan or investment. It is a part of the IBM Git & GitHub certification project.
 
-- **P**: Principal amount
-- **R**: Annual interest rate
-- **T**: Time (in years)
+## Input:
+   * `p`: principal amount
+   * `t`: time period in years
+   * `r`: annual rate of interest
+
+## Output:
+   * `simple interest` = p*t*r/100
 
 ## Usage
-Input the values when prompted to get the calculated simple interest.
+To run the script, use the following command in your terminal:
+bash simple-interest.sh
+
+## License
+This project is licensed under the Apache 2.0 License.
