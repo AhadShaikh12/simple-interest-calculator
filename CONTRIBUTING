@@ -1,25 +1,22 @@
-# Contributing to Simple Interest Calculator
+# Contributor Covenant Code of Conduct
 
-First off, thank you for considering contributing to this project! It’s people like you who make the open-source community such an amazing place to learn, inspire, and create.
+## Our Pledge
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone.
 
-## How Can I Contribute?
+## Our Standards
+Examples of behavior that contributes to a positive environment include using welcoming language and being respectful of differing viewpoints.
 
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+## Enforcement Responsibilities
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior.
 
-### Reporting Bugs
-* Check the Issues tab to see if the bug has already been reported.
-* If not, open a new issue and include as much detail as possible (e.g., steps to reproduce, expected vs. actual results).
+## Scope
+This Code of Conduct applies within all community spaces.
 
-### Suggesting Enhancements
-* Open an issue with the tag "enhancement".
-* Describe the feature you'd like to see and why it would be useful.
+## Enforcement
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders.
 
-### Pull Requests
-1. Fork the repository.
-2. Create a new branch for your feature or fix.
-3. Commit your changes with clear messages.
-4. Submit a Pull Request for review.
+## Enforcement Guidelines
+Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct.
 
----
-
-Thank you for your interest in improving this project!
+## Attribution
+This Code of Conduct is adapted from the Contributor Covenant, version 2.0.
